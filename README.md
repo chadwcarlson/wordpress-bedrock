@@ -10,8 +10,6 @@ This template builds WordPress on Platform.sh using the Bedrock boilerplate by R
 
 WordPress is a blogging and lightweight CMS written in PHP, and Bedrock is a Composer-based WordPress boilerplate project with a slightly modified project structure and configuration protocol. 
 
-small change
-
 ## Features
 
 * PHP 7.4
